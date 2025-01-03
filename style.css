@@ -9,8 +9,9 @@ body{
 
 .container{
     width: 80%;
-    margin: 0 auto;
+    margin: 20px auto;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
+   
 }
