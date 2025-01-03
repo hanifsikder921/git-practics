@@ -5,12 +5,13 @@
 
 body{
     background-color: aqua;
+    color: white;
 }
 
 .container{
     width: 80%;
     margin: 20px auto;
-    background-color: rgb(169, 27, 27);
+    background-color: rgb(17, 7, 214);
     padding: 20px;
     border-radius: 10px;
    
